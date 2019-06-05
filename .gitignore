@@ -23,6 +23,13 @@ ExportedObj/
 *.svd
 *.pdb
 
+# Ensuring that data does not get uploaded
+*.csv
+*.csv.meta
+
+# Removing IDEA files
+.idea/
+
 
 # Unity3D generated meta files
 *.pidb.meta
